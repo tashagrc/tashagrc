@@ -8,7 +8,7 @@ Thank you for visiting my profile! I'm a computer science student interested in 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tashagrc/)
 
 ## 👩‍💻 Github Stats:
-[![Natasha’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/tashagrc) 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/tashagrc) 
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/tashagrc)
   
