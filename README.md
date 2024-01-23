@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Natasha
 
-Thank you for visiting my profile! I'm a computer science student interested in mobile development.
+Thank you for visiting my profile! I'm a computer science student from BINUS University interested in mobile development.
 
 ### 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/natasharadika/)
