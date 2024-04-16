@@ -1,6 +1,8 @@
-## Hi there 👋 I'm Natasha
+## Hello! I’m Natasha. 
 
-Thank you for visiting my profile! I'm a computer science student from BINUS University interested in mobile development.
+I am a learner with a background in computer science. I research, code, and help with design when I can. I hope to use code to turn ideas into real life and make our lives so much easier.
+
+I studied Computer Science at BINUS University and currently work as an iOS Developer at Apple Developer Academy (Cohort 7).
 
 ### 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/natasharadika/)
