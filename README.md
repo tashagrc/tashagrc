@@ -1,6 +1,6 @@
 ## Hello! I’m Natasha. 
 
-I am a learner with a background in computer science. I research, code, and help with design when I can. I hope to use code to turn ideas into real life and make our lives so much easier.
+I am a life long learner with a background in computer science. I research, code, and help with design when I can. I hope to use code to turn ideas into real life and make our lives so much easier.
 
 I studied Computer Science at BINUS University and currently work as an iOS Developer at Apple Developer Academy (Cohort 7).
 
