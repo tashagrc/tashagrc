@@ -13,4 +13,5 @@ I studied Computer Science at BINUS University and currently work as an iOS Deve
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=tashagrc)](https://github.com/tashagrc) 
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tashagrc&layout=compact)](https://github.com/tashagrc)
+
   
