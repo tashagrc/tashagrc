@@ -1,8 +1,5 @@
 ## Hello! I’m Natasha. 
-
-I am a life long learner with a background in computer science. I research, code, and help with design when I can. I hope to use code to turn ideas into real life and make our lives so much easier.
-
-I studied Computer Science at BINUS University and currently work as an iOS Developer at Apple Developer Academy (Cohort 7).
+I am a final-year Computer Science student at BINUS University seeking for iOS engineering role. I have participated and won multiple national competitions in mobile app development, showcasing my creativity and problem-solving abilities. I am passionate about applying my knowledge and experience to address real-world challenges and make a positive impact.
 
 ### 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/natasharadika/)
