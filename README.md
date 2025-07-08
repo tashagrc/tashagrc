@@ -1,5 +1,5 @@
 ## Hello! I’m Natasha. 
-I am a final-year Computer Science student at BINUS University seeking for iOS engineering role. I have participated and won multiple national competitions in mobile app development, showcasing my creativity and problem-solving abilities. I am passionate about applying my knowledge and experience to address real-world challenges and make a positive impact.
+I'm an iOS developer with a Computer Science degree from BINUS University. During college, I was actively involved in teaching, web and mobile development, and hackathons. Currently, I'm focused on deepening my technical skills in Swift, backend development, and algorithmic problem-solving. I'm always open for discussion—feel free to reach out!
 
 ### 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/natasharadika/)
