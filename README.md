@@ -8,7 +8,6 @@ I'm always open for discussions, feel free to reach out!
 ### 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/natasharadika/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tashagrc/)
 
 ### 👩‍💻 Github Stats:
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=tashagrc)](https://github.com/tashagrc) 
