@@ -9,9 +9,4 @@ I'm always open for discussions, feel free to reach out!
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/natasharadika/)
 &nbsp;
 
-### 👩‍💻 Github Stats:
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=tashagrc)](https://github.com/tashagrc) 
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tashagrc&layout=compact)](https://github.com/tashagrc)
-
   
