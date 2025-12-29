@@ -8,9 +8,9 @@ Outside of work, I read widely across disciplines and paint as a creative outlet
 I’m always open to thoughtful discussions and learning from others. Feel free to reach out!
 
 ### 📫 Elsewhere:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/natasharadika/)
+[Linkedin](https://www.linkedin.com/in/natasharadika/)
 &nbsp;
-[![Medium](https://i.stack.imgur.com/0Zx7X.png) Medium](https://medium.com/@tashagrc)
+[Medium](https://medium.com/@tashagrc)
 
 
   
